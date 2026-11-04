@@ -1,3 +1,5 @@
 Good morning!!
 Today is first git practice
 Git class is very useful to me
+
+Today is our second day class
